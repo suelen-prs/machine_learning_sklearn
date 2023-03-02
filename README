@@ -1,0 +1,25 @@
+Curso Alura - Machine Learning: classificação com SKLearn
+
+Um breve resumo sobre o que foi abordado no curso
+
+Introdução a Machine Learning e Classificação -1:
+* Entender o fluxo de treinamento e teste de um estimador que define qual a classe dos dados estava sendo analisado.
+* Gerado um conjunto de treino e outro de teste e utilizou-se um estimador simples, chamado LinearSVC, para fazer as previsões.
+* Utilizou-se uma medida para analisar o número de acertos (acurácia).
+
+Introdução a Machine Learning e Classificação -2:
+* Utilizou-se uma fonte de dados externa. Com base nesses dados, tentou-se prever se o usuário compraria ou não um detrminado produto no site.
+* Renomeouu-se colunas, usou-se algumas funcionalidades do Pandas.
+* Separação dos dados de treino e teste.
+* Usou-se aleatoriedade (SEED) para a reprodução do experimento.
+
+Introdução a Machine Learning e Classificação -3:
+* Usou-se um conjunto de dados com duas dimensões nas features e uma dimensão em Y.
+* Atraves da plotagem, conseguiu-se analisar as diferenças entre as decisões positivas e negativas.
+* O estimador SVC é capaz de classificar mais de duas classes, se for um requisito do projeto.
+* Plotou-se a curva de decisão em duas dimensões, para ter clareza na vizualização dos processos do algoritmo.
+
+Introdução a Machine Learning e Classificação -4:
+* O estimador usado foi a árvore de decisão, que exibe como as decisões estão sendo tomadas.
+
+
